@@ -1,5 +1,5 @@
-import eye01 from '../assets/Robot/Eye/eye01.png'
-import eye02 from '../assets/Robot/Eye/eye02.png'
+import eye01 from '../../assets/Robot/Eye/eye01.png'
+import eye02 from '../../assets/Robot/Eye/eye02.png'
 import react, { useEffect, useState } from 'react'
 
 const onBoot = [eye01,eye02]
